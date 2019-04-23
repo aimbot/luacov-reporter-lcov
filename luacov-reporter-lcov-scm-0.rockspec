@@ -8,7 +8,7 @@ description = {
 }
 
 source = {
-	url = "git+https://github.com/daurnimator/luacov-reporter-lcov.git";
+	url = "git+https://github.com/aimbot/luacov-reporter-lcov.git";
 }
 
 dependencies = {
