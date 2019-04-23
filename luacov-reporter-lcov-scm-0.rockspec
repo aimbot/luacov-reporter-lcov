@@ -3,7 +3,7 @@ version = "scm-0"
 
 description = {
 	summary = "A luacov reporter for use with lcov";
-	homepage = "https://github.com/daurnimator/luacov-reporter-lcov";
+	homepage = "https://github.com/aimbot/luacov-reporter-lcov";
 	license = "MIT";
 }
 
